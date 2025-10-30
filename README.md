@@ -109,7 +109,7 @@ This document documents a controlled lab exercise demonstrating a basic phishing
 
 - Email sent from a lab account to the lab Android device.
 
-###M message characteristics
+### message characteristics
 
 - Subject line and body tailored using reconnaissance findings to increase plausibility (e.g., referencing a recent lab “update” or “account verification”).
 
