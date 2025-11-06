@@ -161,7 +161,7 @@ The target device loaded the page and submitted credentials (see Exploitation).
 
 - Email filtering/ML-based detection could flag suspicious messages with short URLs, unusual sender patterns, or mismatched message content.
 
-n- Web proxy logs and IDS can detect and block connections to known phishing pages.
+- Web proxy logs and IDS can detect and block connections to known phishing pages.
 
 
 #  Recommendations — Mitigation & Security Awareness
