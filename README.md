@@ -144,6 +144,7 @@ The target device loaded the page and submitted credentials (see Exploitation).
 
 - All captured credentials in this report are redacted.
 
+![cred](Stolencred.png)
 - Lab credentials were reset/invalidated after the test.
 
 
